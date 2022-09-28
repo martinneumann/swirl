@@ -1,5 +1,13 @@
 # @getflip/swirl-components
 
+## 0.2.1
+
+### Patch Changes
+
+- [`5f21bb4`](https://github.com/getflip/swirl/commit/5f21bb42467c0b32e4311db6ef46ff199b4068f0)
+  Thanks [@Sqrrl](https://github.com/Sqrrl)! - Fix a minor styling issue of
+  flip-resource-list-item and flip-resource-list-file-item
+
 ## 0.2.0
 
 ### Minor Changes
